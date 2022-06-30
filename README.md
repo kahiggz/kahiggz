@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ###
-<p align="left">My name is Bryan and i'm a front-end dev from Kenya. I career swapped from Marketing to Software and I've loved every minute of it. Thanks for checking out my GitHub!</p>
+<p align="left">My name is Bryan and i'm a front-end dev from Kenya. I love creating beautifull and impactful mobile apps. Thanks for checking out my GitHub!</p>
 
 ###
-<h2 align="left">About me</h2>
+<h2 align="left">Get to know me</h2>
 
 ###
 <p align="left">🎯 Goals: Create useful stuff AND fun stuff<br>📚 I'm currently going deeper into data structures & algos <br>🎲 Fun fact: Having a golden retriever is my 90% of my personality</p>
