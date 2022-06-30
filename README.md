@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="left">Get to know me</h2>
 
 ###
-<p align="left">🎯 Goals: Create useful stuff AND fun stuff<br>📚 I'm currently going deeper into data structures & algos <br>🎲 Fun fact: Having a golden retriever is my 90% of my personality</p>
+<p align="left">🔭 I’m currently working on<br>🌱 I’m currently learning<br>⚡ Fun fact:</p>
 
 ###
 <div align="left">
