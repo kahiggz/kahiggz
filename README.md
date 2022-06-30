@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ###
 <div align="left">
-  <a href="https://www.linkedin.com/in/sean-derue/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kahiggz/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/bryan-kahiga-000a9416b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
