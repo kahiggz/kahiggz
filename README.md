@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ###
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seanderue.seanderue&right_color=coral&left_text=Visits"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kahiggz.kahiggz&right_color=coral&left_text=Visits"  />
 </div>
 
 ###
