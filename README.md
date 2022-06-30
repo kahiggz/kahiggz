@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my Git Profile
+### Hi there 👋, welcome to my Git
 
 <!--
 **kahiggz/kahiggz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
