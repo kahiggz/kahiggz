@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ###
-<p align="left">My name is Bryan and i'm a front-end dev from Kenya. I love creating beautifull and impactful web and mobile experiences. Thanks for checking out my GitHub!</p>
+<p align="left">My name is Bryan and i'm a Software Developer from Kenya. I love creating beautifull and impactful web and mobile experiences. Thanks for checking out my GitHub!</p>
 
 ###
 <h2 align="left">Get to know me</h2>
