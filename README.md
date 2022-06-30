@@ -16,26 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ###
-<p align="left">My name is Bryan and i'm a front-end dev from Kenya. I love creating beautifull and impactful mobile apps. Thanks for checking out my GitHub!</p>
+<p align="left">My name is Bryan and i'm a front-end dev from Kenya. I love creating beautifull and impactful web and mobile experiences. Thanks for checking out my GitHub!</p>
 
 ###
 <h2 align="left">Get to know me</h2>
 
 ###
-<p align="left">🔭 I’m currently working on<br>🌱 I’m currently learning<br>⚡ Fun fact:</p>
+<p align="left">🔭 I’m currently working on an MTG app (in repo), be sure to check it out and leave your thoughts<br>🌱 I’m currently getting into data structures while polishing up my Nestjs skills<br>💬 Current Favorite quote: "You have to assemble your life yourself‚ action by action." - Marcus Aurelius</p>
+
+
+###
+<h2 align="left">Tools of the trade</h2>
 
 ###
 <div align="left">
-  <a href="https://www.linkedin.com/in/bryan-kahiga-000a9416b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-<h2 align="left">My tools of the trade</h2>
-
-###
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="60" alt="nestjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -46,8 +40,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kahiggz.kahiggz&right_color=coral&left_text=Visits"  />
 </div>
 
-###
